@@ -1,0 +1,10 @@
+PyQt6>=6.5.0
+Pillow
+cryptography
+keyring
+pyaudio
+pyttsx3
+PyMuPDF
+llama-cpp-python[server]
+vosk
+openai
